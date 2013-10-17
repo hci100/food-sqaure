@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>74F909BB-2909-47BE-BF34-9C41D12E2663</string>
+	<key>IDESourceControlProjectName</key>
+	<string>food－square</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>D811334B-A3A9-4A3E-9E79-011EE3BAC20B</key>
+		<string>https://github.com/seashore115/hci.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>food－square.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>D811334B-A3A9-4A3E-9E79-011EE3BAC20B</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/seashore115/hci.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>D811334B-A3A9-4A3E-9E79-011EE3BAC20B</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>D811334B-A3A9-4A3E-9E79-011EE3BAC20B</string>
+			<key>IDESourceControlWCCName</key>
+			<string>food－square</string>
+		</dict>
+	</array>
+</dict>
+</plist>
